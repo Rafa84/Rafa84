@@ -1,4 +1,4 @@
-## Olá! Rafael Miranda aqui..🖐🏼🖐🏼🖐🏼
+## Olá! Rafael Miranda aqui..🖐🏼
 <div>
 <h4><i>Sobre</i></h4>
 Atualmente estou estudando <b>Python</b> e utilizo muito o <b>VBA</b> para integrações SAP e Excel.
