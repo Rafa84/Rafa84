@@ -13,7 +13,6 @@ Atualmente estou estudando <b>Python</b> e utilizo muito o <b>VBA</b> para integ
  </div>
 <h6></h6>
 <div>
-<a ref="https://github.com/rafa84"></a>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafa84&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa84&layout=compact&langs_count=20&theme=gotham">  
 </div>
