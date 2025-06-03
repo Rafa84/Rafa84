@@ -3,7 +3,7 @@
 <h4><i>Sobre</i></h4>
 Atualmente estou estudando <b>Python</b> e utilizo muito o <b>VBA</b> para integrações SAP e Excel.
 <h6></h6>
-👨🏼‍🎓 - Engenheiro Químico 👷🏼‍♂️👨🏼‍🔬
+👨🏼‍🎓 - Engenheiro Químico 👷🏼‍♂️👨🏼‍🔬 | Engenheiro de Dados e IA
 <h6></h6>
 🗣 - 🇧🇷 🇺🇸 🇫🇷  
 <h6></h6>
