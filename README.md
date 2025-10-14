@@ -1,7 +1,7 @@
 ## Olá! Rafael Miranda aqui..🖐🏼
 <div>
 <h4><i>Sobre</i></h4>
-Atualmente estou estudando <b>Python</b> e utilizo muito o <b>VBA</b> para integrações SAP e Excel.
+Engenheiro de Produto em transição para Engenharia de Dados. Trabalho com Python, SQL, automação de pipelines e análise orientada a dados.”
 <h6></h6>
 👨🏼‍🎓 - Engenheiro Químico 👷🏼‍♂️👨🏼‍🔬 | Engenheiro de Dados e IA
 <h6></h6>
