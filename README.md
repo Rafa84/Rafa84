@@ -1,7 +1,7 @@
 ## Olá! Rafael Miranda aqui..🖐🏼
 <div>
 <h4><i>Sobre</i></h4>
-Engenheiro de Produto em transição para Engenharia de Dados. Trabalho com Python, SQL, automação de pipelines e análise orientada a dados.”
+Engenheiro de Produto em transição para Engenharia de Dados. Trabalho com Python, SQL, Databricks e Azure.”
 <h6></h6>
 👨🏼‍🎓 - Engenheiro Químico 👷🏼‍♂️👨🏼‍🔬 | Engenheiro de Dados e IA
 <h6></h6>
