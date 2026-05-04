@@ -1,51 +1,82 @@
-<div align="center">
+<!-- ~ / github.com/Rafa84 ▸ whoami -->
 
-  ## Olá, eu sou o Rafael Miranda! 👋
+# Rafael Miranda
 
-  ### 🎓 Engenheiro Químico | 🚀 Em transição para Engenharia de Dados
+**Data & Analytics Engineer** — pipelines robustos, automação inteligente e IA aplicada.
+De Recife pro mundo. 🌎
 
-  <br>
+```
+▸ agora:  Analista de Produto @ NX Boats · buscando posição em Data Engineering
+▸ stack:  Python · SQL · Databricks · Azure · AWS · Docker · Power BI
+▸ local:  Recife, PE · disponível para remoto
+```
 
-  <p align="center">
-    <i>"Transformando dados brutos em insights estratégicos. Focado em pipelines robustos e automação."</i>
-  </p>
+---
 
-  <br>
+## 🛠️ Ferramentas & Infra
 
-  <h3>🛠️ Tech Stack & Ferramentas</h3>
+**Core & Dados**
 
-  | **Core & Dados** | **Cloud & Infra** | **Outros** |
-  | :---: | :---: | :---: |
-  | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 
-  <br>
+**Cloud & Infra**
 
-  <div align="center">
-    <h3>📊 GitHub Stats</h3>
-    <a href="https://github.com/rafa84">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafa84&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"/>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa84&layout=compact&langs_count=6&theme=gotham&hide_border=true"/>
-    </a>
-  </div>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-  <br>
+**BI & Automação**
 
-  <p>
-    🗣️ <b>Idiomas:</b> Português 🇧🇷 | Inglês 🇺🇸 | Francês 🇫🇷
-  </p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
-  <br>
+---
 
-  <h3>📫 Vamos conversar?</h3>
-  
-  <a href="https://www.linkedin.com/in/miranda-rafael" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-  <a href="mailto:rafael.mirandaeq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.kaggle.com/rafa84miranda" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
-  </a>
+## 🚀 Projetos em Destaque
 
-</div>
+### Data Engineering
+
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| [**Jobs Radar**](https://github.com/Rafa84/radar_jobs) | Pipeline end-to-end de monitoramento de vagas remotas — scraping, dbt, Airflow, API REST e dashboard React | Python · dbt · Airflow · React | ✅ prod |
+| [**Garimpeiro Digital**](https://github.com/Rafa84) | Bot de afiliados na Shopee — detecta tendências, scrapa com Playwright, gera copy com IA e posta no Telegram | Python · Playwright · Airflow | ✅ prod |
+
+### IA Generativa
+
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| [**Maestro**](https://github.com/Rafa84) | Pipeline de música generativa — prompt → LLM → Stable Audio → crítico IA → mixagem e masterização automática | PyTorch · Stable Audio · Ollama | 🔬 experimental |
+| [**Narrador v2**](https://github.com/Rafa84) | Pipeline de clonagem de voz com GPT-SoVITS v2Pro — dataset, phonemes, treinamento e validação iterativa | GPT-SoVITS · PyTorch · librosa | 🔬 experimental |
+
+### Automação & Infra
+
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| [**ZapStack**](https://github.com/Rafa84) | Stack Docker para automação WhatsApp — n8n, WAHA, Evolution API e Ollama orquestrados via Compose | Docker · n8n · Evolution API | 🚧 em dev |
+| [**Caminhante Invisível**](https://github.com/Rafa84) | Compositor de vídeos curtos — combina vídeo, overlay e narração com efeitos guiados por config.json | Python · MoviePy · FFmpeg | ✅ funcional |
+
+---
+
+## 📊 GitHub Stats
+
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafa84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa84&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Conecte-se
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miranda-rafael)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rafael.mirandaeq@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/rafael)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rafa84&color=1D9E75&style=flat&label=profile+views" />
+</p>
